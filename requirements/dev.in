@@ -1,0 +1,4 @@
+pip-tools==5.5.0
+python-dotenv
+build
+setuptools-scm
